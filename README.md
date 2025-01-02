@@ -1,10 +1,10 @@
 # advanced_machine_learning
 Advanced Machine Learning Course
 
-הדאטהסט מכיל מידע על נהגי כלי רכב שהיו מעורבים בתאונות דרכים בכבישים עירוניים ומקומיים במחוז מונטגומרי. הנתונים נאספו על ידי מערכת דיווח התאונות האוטומטית של משטרת מדינת מרילנד ודווחו על ידי משטרת מחוז מונטגומרי, משטרת גייתרסבורג, משטרת רוקוויל, או משטרת הפארקים של מרילנד.
+The dataset contains information about vehicle drivers involved in traffic accidents on urban and local roads in Montgomery County. The data was collected by the Maryland State Police Automated Crash Reporting System and reported by the Montgomery County Police Department, Gaithersburg Police Department, Rockville Police Department, or Maryland-National Capital Park Police.
 
-הנתונים כוללים פרטים על התאונות ועל הנהגים המעורבים בכל אירוע. עם זאת, חשוב לציין שהמידע מבוסס על דיווחים ראשוניים שנמסרו למשטרה, ולכן ייתכן שהנתונים כוללים:  
-- מידע שלא עבר אימות נוסף.  
-- שילוב של נתונים מאומתים ולא מאומתים.  
-- סיווגי תאונות ראשוניים שעשויים להשתנות בעקבות חקירה מעמיקה יותר.  
-- טעויות מכניות או אנושיות.
+The data includes details about the accidents and the drivers involved in each incident. However, it is important to note that the information is based on initial reports provided to the police, and therefore the dataset may include:  
+- Information that has not undergone further verification.  
+- A mix of verified and unverified data.  
+- Initial accident classifications that may change following more in-depth investigations.  
+- Mechanical or human errors.
